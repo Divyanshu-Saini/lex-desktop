@@ -12,6 +12,7 @@
   },
   "main": "background.js",
   "dependencies": {
+    "@azure/msal-node": "^1.0.1",
     "@mdi/font": "5.9.55",
     "core-js": "^3.6.5",
     "roboto-fontface": "*",
